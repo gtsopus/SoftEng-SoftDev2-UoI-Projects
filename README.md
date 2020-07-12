@@ -17,7 +17,7 @@ __Documentation, details, specifications and design will be provided in [report.
 * Transform text to speech with the ability to control sound pitch,rate and volume.
 * Different encoding strategies, line or document-wise.
 
-Made by:
+## Made by:
 * Grigorios Tsopouridis
 * [Philip Papachristou](https://github.com/ppapahr)
 * [Giannis Tarasidis](https://github.com/giannistar)
